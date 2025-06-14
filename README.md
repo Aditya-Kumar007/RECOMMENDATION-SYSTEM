@@ -47,3 +47,6 @@ Heatmaps were plotted to visually compare the original vs. predicted ratings, he
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/aa68921f-9601-466e-b527-f97db678ff7f)
+
+![Image](https://github.com/user-attachments/assets/44bacf8d-f3a8-42fb-a9b7-9096ecc2b108)
